@@ -14,7 +14,7 @@ Check out the live demo [here](./public/images/Capture.JPG).
 
 ## 🌐 Live Link
 
-[Live Demo](http://your-live-link.com)
+[Live Demo](https://glittery-fudge-500c76.netlify.app)
 
 ## 🛠️ Getting Started
 
